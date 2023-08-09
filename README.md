@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Onur 👋<br>I'm a junior software developer from Turkey
+Hi there, I'm Onur 👋<br>I'm a software developer from Turkey
 
 
 ## 🌐 Socials:
